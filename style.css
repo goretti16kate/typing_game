@@ -1,0 +1,8 @@
+.error{
+    background-color: pink;
+}
+span::after {
+    content: "";
+    display: inline-block;
+    width: 5px;
+}
